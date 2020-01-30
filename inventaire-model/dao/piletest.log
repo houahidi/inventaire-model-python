@@ -1,0 +1,73 @@
+2020-01-30 00:57:04,576 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 00:57:04,576 - logger1 - INFO - dao_medias : 39 - ajouter un Media : id=1, libelle=Sciences
+2020-01-30 00:57:04,576 - logger1 - DEBUG - dao_medias : 40 - creer une connexion
+2020-01-30 00:57:04,577 - logger1 - DEBUG - dao_medias : 42 - creer la tables des medias
+2020-01-30 00:57:04,577 - logger1 - ERROR - dao_medias : 51 - no such table: medias
+2020-01-30 00:57:04,577 - logger1 - DEBUG - dao_medias : 53 - liberer la connexion
+2020-01-30 00:59:04,488 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 00:59:04,488 - logger1 - INFO - dao_medias : 20 - initialiser la base de donnees inventaire.db
+2020-01-30 00:59:04,488 - logger1 - DEBUG - dao_medias : 21 - creer une connexion
+2020-01-30 00:59:04,489 - logger1 - DEBUG - dao_medias : 23 - creer la tables des medias
+2020-01-30 00:59:04,491 - logger1 - DEBUG - dao_medias : 27 - valider la creation
+2020-01-30 00:59:04,491 - logger1 - DEBUG - dao_medias : 32 - liberer la connexion
+2020-01-30 00:59:04,491 - logger1 - INFO - dao_medias : 39 - ajouter un Media : id=1, libelle=Sciences
+2020-01-30 00:59:04,491 - logger1 - DEBUG - dao_medias : 40 - creer une connexion
+2020-01-30 00:59:04,492 - logger1 - DEBUG - dao_medias : 42 - creer la tables des medias
+2020-01-30 00:59:04,492 - logger1 - DEBUG - dao_medias : 48 - valider la creation
+2020-01-30 00:59:04,493 - logger1 - DEBUG - dao_medias : 53 - liberer la connexion
+2020-01-30 00:59:04,493 - logger1 - INFO - dao_medias : 62 - lister les medias
+2020-01-30 00:59:04,493 - logger1 - DEBUG - dao_medias : 63 - creer une connexion
+2020-01-30 00:59:04,494 - logger1 - ERROR - dao_medias : 76 - tuple index out of range
+2020-01-30 00:59:04,494 - logger1 - DEBUG - dao_medias : 78 - liberer la connexion
+2020-01-30 00:59:35,469 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 00:59:35,470 - logger1 - INFO - dao_medias : 39 - ajouter un Media : id=1, libelle=Sciences
+2020-01-30 00:59:35,470 - logger1 - DEBUG - dao_medias : 40 - creer une connexion
+2020-01-30 00:59:35,471 - logger1 - DEBUG - dao_medias : 42 - creer la tables des medias
+2020-01-30 00:59:35,472 - logger1 - DEBUG - dao_medias : 48 - valider la creation
+2020-01-30 00:59:35,473 - logger1 - DEBUG - dao_medias : 53 - liberer la connexion
+2020-01-30 00:59:35,473 - logger1 - INFO - dao_medias : 62 - lister les medias
+2020-01-30 00:59:35,473 - logger1 - DEBUG - dao_medias : 63 - creer une connexion
+2020-01-30 00:59:35,474 - logger1 - DEBUG - dao_medias : 73 - valider la creation
+2020-01-30 00:59:35,474 - logger1 - DEBUG - dao_medias : 78 - liberer la connexion
+2020-01-30 01:01:41,969 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 01:01:41,970 - logger1 - INFO - dao_medias : 20 - initialiser la base de donnees inventaire.db
+2020-01-30 01:01:41,970 - logger1 - DEBUG - dao_medias : 21 - creer une connexion
+2020-01-30 01:01:41,970 - logger1 - DEBUG - dao_medias : 23 - creer la tables des medias
+2020-01-30 01:01:41,972 - logger1 - DEBUG - dao_medias : 27 - valider la creation
+2020-01-30 01:01:41,972 - logger1 - DEBUG - dao_medias : 32 - liberer la connexion
+2020-01-30 01:01:41,972 - logger1 - INFO - dao_medias : 39 - ajouter un Media : id=1, libelle=Sciences
+2020-01-30 01:01:41,972 - logger1 - DEBUG - dao_medias : 40 - creer une connexion
+2020-01-30 01:01:41,972 - logger1 - DEBUG - dao_medias : 42 - creer la tables des medias
+2020-01-30 01:01:41,973 - logger1 - DEBUG - dao_medias : 48 - valider la creation
+2020-01-30 01:01:41,973 - logger1 - DEBUG - dao_medias : 53 - liberer la connexion
+2020-01-30 01:01:41,973 - logger1 - INFO - dao_medias : 62 - lister les medias
+2020-01-30 01:01:41,974 - logger1 - DEBUG - dao_medias : 63 - creer une connexion
+2020-01-30 01:01:41,974 - logger1 - DEBUG - dao_medias : 73 - valider la creation
+2020-01-30 01:01:41,974 - logger1 - DEBUG - dao_medias : 78 - liberer la connexion
+2020-01-30 01:02:08,446 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 01:02:08,447 - logger1 - INFO - dao_medias : 20 - initialiser la base de donnees /Users/houahidi/Workspaces/PycharmProjects/inventaire-model/inventaire.db
+2020-01-30 01:02:08,447 - logger1 - DEBUG - dao_medias : 21 - creer une connexion
+2020-01-30 01:02:08,447 - logger1 - DEBUG - dao_medias : 23 - creer la tables des medias
+2020-01-30 01:02:08,449 - logger1 - DEBUG - dao_medias : 27 - valider la creation
+2020-01-30 01:02:08,449 - logger1 - DEBUG - dao_medias : 32 - liberer la connexion
+2020-01-30 01:02:08,449 - logger1 - INFO - dao_medias : 39 - ajouter un Media : id=1, libelle=Sciences
+2020-01-30 01:02:08,449 - logger1 - DEBUG - dao_medias : 40 - creer une connexion
+2020-01-30 01:02:08,449 - logger1 - DEBUG - dao_medias : 42 - creer la tables des medias
+2020-01-30 01:02:08,450 - logger1 - DEBUG - dao_medias : 48 - valider la creation
+2020-01-30 01:02:08,450 - logger1 - DEBUG - dao_medias : 53 - liberer la connexion
+2020-01-30 01:02:08,450 - logger1 - INFO - dao_medias : 62 - lister les medias
+2020-01-30 01:02:08,450 - logger1 - DEBUG - dao_medias : 63 - creer une connexion
+2020-01-30 01:02:08,451 - logger1 - DEBUG - dao_medias : 73 - valider la creation
+2020-01-30 01:02:08,451 - logger1 - DEBUG - dao_medias : 78 - liberer la connexion
+2020-01-30 01:03:04,832 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 01:03:04,833 - logger1 - INFO - dao_medias : 62 - lister les medias
+2020-01-30 01:03:04,833 - logger1 - DEBUG - dao_medias : 63 - creer une connexion
+2020-01-30 01:03:04,833 - logger1 - DEBUG - dao_medias : 73 - valider la creation
+2020-01-30 01:03:04,833 - logger1 - DEBUG - dao_medias : 78 - liberer la connexion
+2020-01-30 01:03:04,833 - logger1 - INFO - dao_medias : 95 - Media : id=1, libelle=Sciences
+2020-01-30 01:13:31,009 - logger1 - INFO - dao_medias : 88 - tester la creation de la table
+2020-01-30 01:13:31,010 - logger1 - INFO - dao_medias : 62 - lister les medias
+2020-01-30 01:13:31,010 - logger1 - DEBUG - dao_medias : 63 - creer une connexion
+2020-01-30 01:13:31,012 - logger1 - DEBUG - dao_medias : 73 - valider la creation
+2020-01-30 01:13:31,012 - logger1 - DEBUG - dao_medias : 78 - liberer la connexion
+2020-01-30 01:13:31,012 - logger1 - INFO - dao_medias : 95 - Media : id=1, libelle=Sciences
